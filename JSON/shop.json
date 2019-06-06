@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "shop": [
+    {
+      "title": "Yamaha YZF-R1",
+      "subTitle": "Hubraum: 998 ccm Leistung: 147 kW / 200 PS ",
+      "price": "50€",
+      "imagePath": "images/yamaha-yzf-r1-yamaha-blue.png"
+    },
+    {
+      "title": "Entry #1",
+      "subTitle": "BescDOIAMSh",
+      "price": "50€",
+      "imagePath": "images/cloth_2.jpg"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
