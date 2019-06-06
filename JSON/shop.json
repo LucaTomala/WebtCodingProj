@@ -16,15 +16,21 @@
   "shop": [
     {
       "title": "Yamaha YZF-R1",
-      "subTitle": "Hubraum: 998ccm Leistung: 147 kW / 200 PS",
+      "subTitle": "Hubraum: 998cm³ Leistung: 147 kW / 200 PS",
       "price": "23.499,00 €",
       "imagePath": "images/yamaha-yzf-r1-yamaha-blue.png"
     },
     {
       "title": "KTM Superduke 1290 R",
-      "subTitle": "Hubraum: 1301ccm | Leistung: 130 / 174 PS",
+      "subTitle": "Hubraum: 1301cm³ | Leistung: 130 / 174 PS",
       "price": "16.998 €",
       "imagePath": "images/Superduke_shop.jpg"
+    },
+    {
+      "title": "Ninja H2R",
+      "subTitle": "Hubraum: 998 cm³ | Leistung: 228 kW / 310 PS",
+      "price": "",
+      "imagePath": "images/Kawasaki_ninja_shop.jpg"
     }
   ],
   "profile": {
