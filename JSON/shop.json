@@ -16,15 +16,15 @@
   "shop": [
     {
       "title": "Yamaha YZF-R1",
-      "subTitle": "Hubraum: 998 ccm Leistung: 147 kW / 200 PS ",
-      "price": "50€",
+      "subTitle": "Hubraum: 998ccm Leistung: 147 kW / 200 PS",
+      "price": "23.499,00 €",
       "imagePath": "images/yamaha-yzf-r1-yamaha-blue.png"
     },
     {
-      "title": "Entry #1",
-      "subTitle": "BescDOIAMSh",
-      "price": "50€",
-      "imagePath": "images/cloth_2.jpg"
+      "title": "KTM Superduke 1290 R",
+      "subTitle": "Hubraum: 1301ccm | Leistung: 130 / 174 PS",
+      "price": "16.998 €",
+      "imagePath": "images/Superduke_shop.jpg"
     }
   ],
   "profile": {
