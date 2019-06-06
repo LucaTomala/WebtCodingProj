@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3be02435-d1ca-49c5-b925-855549317b89" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+>>>>>>> b230868ef55218bb4119a45606cd251cb140e552
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,9 +19,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="215" column="18" lean-forward="true" selection-start-line="215" selection-start-column="18" selection-end-line="215" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/shop_request.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1032">
+              <caret line="50" column="49" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="49" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+>>>>>>> b230868ef55218bb4119a45606cd251cb140e552
         </entry>
       </file>
     </leaf>
@@ -37,11 +72,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
+=======
+>>>>>>> b230868ef55218bb4119a45606cd251cb140e552
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -49,6 +87,7 @@
         <option value="$PROJECT_DIR$/shop-single.html" />
         <option value="$PROJECT_DIR$/js/shop_request.js" />
         <option value="$PROJECT_DIR$/shop.html" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/../json-server-test/shop.json" />
       </list>
     </option>
@@ -58,6 +97,17 @@
     <option name="y" value="27" />
     <option name="width" value="1402" />
     <option name="height" value="781" />
+=======
+        <option value="$USER_HOME$/Desktop/json-server-test/shop.json" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+>>>>>>> b230868ef55218bb4119a45606cd251cb140e552
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -70,8 +120,13 @@
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="WebtCodingProj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebtCodingProj" type="462c0819:PsiDirectoryNode" />
+>>>>>>> b230868ef55218bb4119a45606cd251cb140e552
             </path>
           </expand>
           <select />
@@ -111,17 +166,30 @@
       <updated>1557408909169</updated>
       <workItem from="1557408910467" duration="102000" />
       <workItem from="1558254208600" duration="2585000" />
+<<<<<<< HEAD
       <workItem from="1559821830044" duration="343000" />
+=======
+      <workItem from="1559821613192" duration="687000" />
+>>>>>>> b230868ef55218bb4119a45606cd251cb140e552
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="3030000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1719" height="932" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.086646885" />
+=======
+    <option name="totallyTimeSpent" value="3374000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3621795" />
+>>>>>>> b230868ef55218bb4119a45606cd251cb140e552
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -133,7 +201,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Floobits" order="8" weight="0.32896653" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32995495" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info active="true" anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.07335907" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -143,6 +211,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../share/Lucaqd76wc/Project/js/shop_request.js" />
@@ -156,16 +250,25 @@
     <entry file="file://$PROJECT_DIR$/images/hero_1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/../json-server-test/shop.json" />
     <entry file="file://$PROJECT_DIR$/shop.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3504">
           <caret line="146" column="18" selection-start-line="146" selection-start-column="18" selection-end-line="146" selection-end-column="18" />
+=======
+    <entry file="file://$USER_HOME$/Desktop/json-server-test/shop.json" />
+    <entry file="file://$PROJECT_DIR$/shop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+>>>>>>> b230868ef55218bb4119a45606cd251cb140e552
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/shop_request.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="572">
           <caret line="70" selection-start-line="70" selection-end-line="70" />
         </state>
@@ -173,6 +276,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor" />
+=======
+        <state relative-caret-position="1032">
+          <caret line="50" column="49" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="49" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3053">
+          <caret line="121" column="18" selection-start-line="121" selection-start-column="18" selection-end-line="121" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="215" column="18" lean-forward="true" selection-start-line="215" selection-start-column="18" selection-end-line="215" selection-end-column="18" />
+        </state>
+      </provider>
+>>>>>>> b230868ef55218bb4119a45606cd251cb140e552
     </entry>
   </component>
 </project>
