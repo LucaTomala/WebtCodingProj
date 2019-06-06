@@ -23,14 +23,21 @@
     {
       "title": "KTM Superduke 1290 R",
       "subTitle": "Hubraum: 1301cm³ | Leistung: 130 / 174 PS",
-      "price": "16.998 €",
+      "price": "16.998,00 €",
       "imagePath": "images/Superduke_shop.jpg"
     },
     {
-      "title": "Ninja H2R",
+      "title": "Kawasaki Ninja H2R",
       "subTitle": "Hubraum: 998 cm³ | Leistung: 228 kW / 310 PS",
-      "price": "",
+      "price": "61.500,00 €",
       "imagePath": "images/Kawasaki_ninja_shop.jpg"
+    }
+    ,
+    {
+      "title": "Kawasaki Z 1000",
+      "subTitle": "Hubraum: 1.043 cm³ | Leistung: 104,5 kW / 142 PS",
+      "price": "15.299,00 €",
+      "imagePath": "images/kawasakiZ1000_shop.jpg"
     }
   ],
   "profile": {
