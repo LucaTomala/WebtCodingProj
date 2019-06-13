@@ -41,7 +41,7 @@ request.onload = function () {
             textContainer.setAttribute('class', 'block-4-text p-4');
             const h3 = document.createElement('h3');
             const textLink = document.createElement('a');
-            textLink.setAttribute('href', entry.href);
+            textLink.setAttribute('href', entry.link);
             textLink.textContent = entry.title;
             h3.appendChild(textLink);
             textContainer.appendChild(h3);
