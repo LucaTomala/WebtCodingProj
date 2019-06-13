@@ -26,7 +26,7 @@ request.onload = function () {
             const figure = document.createElement('figure');
             figure.setAttribute('class', 'block-4-image');
             const imageLink = document.createElement('a');
-            imageLink.setAttribute('href', 'cart.html');
+            imageLink.setAttribute('href', entry.imageLink);
 
             const image = document.createElement('img');
             image.setAttribute('alt', 'Image Placeholder');
@@ -41,7 +41,8 @@ request.onload = function () {
             textContainer.setAttribute('class', 'block-4-text p-4');
             const h3 = document.createElement('h3');
             const textLink = document.createElement('a');
-            textLink.setAttribute('href', entry.link);
+            console.log(entry);
+            textLink.setAttribute('href', entry.textLink);
             textLink.textContent = entry.title;
             h3.appendChild(textLink);
             textContainer.appendChild(h3);
