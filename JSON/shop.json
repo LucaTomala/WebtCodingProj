@@ -18,7 +18,8 @@
       "title": "Yamaha YZF-R1",
       "subTitle": "Hubraum: 998cm³ Leistung: 147 kW / 200 PS",
       "price": "23.499,00 €",
-      "imagePath": "images/yamaha-yzf-r1-yamaha-blue.png"
+      "imagePath": "images/yamaha-yzf-r1-yamaha-blue.png",
+      "href": "https://www.google.at/webhp?hl=de&sa=X&ved=0ahUKEwjSwYLdq-biAhVBU1AKHcRPBOwQPAgH"
     },
     {
       "title": "KTM Superduke 1290 R",
@@ -38,7 +39,7 @@
       "price": "15.299,00 €",
       "imagePath": "images/kawasakiZ1000_shop.jpg"
     },
-  
+
   ],
   "profile": {
     "name": "typicode"
